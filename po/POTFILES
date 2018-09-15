@@ -1,0 +1,7 @@
+data/org.gnome.Mission_Control.desktop.in
+data/org.gnome.Mission_Control.appdata.xml.in
+data/org.gnome.Mission_Control.gschema.xml
+src/mission_control-window.ui
+src/main.c
+src/mission_control-window.c
+
